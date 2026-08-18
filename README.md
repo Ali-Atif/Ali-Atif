@@ -189,11 +189,11 @@ Contributed to full-stack application development with a focus on backend APIs, 
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhammad-ali-484632247/)">
+<a href="https://www.linkedin.com/in/muhammad-ali-484632247/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/Ali-Atif)">
+<a href="https://github.com/Ali-Atif" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
