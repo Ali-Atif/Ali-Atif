@@ -1,7 +1,8 @@
 # Muhammad Ali
 
-**MERN Stack Developer · Full Stack Engineer**
-Lahore, Pakistan · Currently working at **Soft Enterprise**
+### MERN Stack Developer · Full Stack Engineer
+
+**Lahore, Pakistan 🇵🇰 · MERN Stack Developer at Soft Enterprise**
 
 I build scalable and maintainable web applications across the frontend and backend — from responsive React interfaces and RESTful APIs to authentication, authorization, RBAC, and database-driven systems.
 
@@ -9,9 +10,22 @@ Currently working as a **MERN Stack Developer at Soft Enterprise**, with hands-o
 
 ---
 
-## Work Experience
+## 👨‍💻 About Me
 
-### **MERN Stack Developer** · Soft Enterprise
+* 🚀 Building **full-stack web applications** with modern JavaScript technologies
+* ⚛️ Focused on **React.js, Node.js, Express.js & MongoDB**
+* 🔐 Experienced in **Authentication, Authorization & Dynamic RBAC**
+* 🗄️ Working with **MongoDB, MySQL & PostgreSQL**
+* 🔌 Building and integrating **RESTful APIs**
+* ☁️ Experience with **AWS, GCP, Firebase & Supabase**
+* 🛠️ Comfortable with **Git, GitHub, GitLab, Postman & CI/CD**
+* 💡 Interested in building scalable, maintainable and production-ready systems
+
+---
+
+## 🧑‍💼 Work Experience
+
+### MERN Stack Developer · Soft Enterprise
 
 `2026 — Present` · Full-Time
 
@@ -26,11 +40,21 @@ Working on full-stack web applications using modern frontend and backend technol
 * Working with Git-based development workflows and API testing
 * Collaborating with team members to deliver production-ready features
 
-`JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `JWT` `RBAC` `Git`
+**Technologies**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-6C47FF?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-### **Junior MERN Stack Developer** · Techtimize
+### Junior MERN Stack Developer · Techtimize
 
 `Dec 2025 — Mar 2026` · Full-Time · Onsite · Lahore, Pakistan
 
@@ -46,11 +70,20 @@ Worked on full-stack web applications across frontend, backend, database, and AP
 * Worked with Git, GitLab, Bitbucket, JIRA, code reviews, and CI/CD workflows
 * Collaborated with designers, developers, and QA teams in an Agile/Scrum environment
 
-`React.js` `Angular` `Node.js` `Express.js` `MySQL` `REST APIs` `JWT` `RBAC` `Git` `JIRA` `CI/CD`
+**Technologies**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 
 ---
 
-### **Software Engineer Intern (MERN)** · HeuristicSol
+### Software Engineer Intern (MERN) · HeuristicSol
 
 `Jun 2025 — Sep 2025` · Internship · Onsite · Lahore, Pakistan
 
@@ -66,80 +99,127 @@ Contributed to full-stack application development with a focus on backend APIs, 
 * Debugged and improved application performance
 * Contributed to production-ready application development
 
-`React.js` `Node.js` `Express.js` `MySQL` `REST APIs` `Authentication` `RBAC`
+**Technologies**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
 ---
 
-## What I Work With
+# 🛠️ Tech Stack
 
-### Frontend
+## Frontend
 
-`React.js` `Redux Toolkit` `Tailwind CSS` `Material UI` `HTML5` `CSS3` `Next.js`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,materialui,nextjs" />
+</p>
 
-### Backend
+## Backend
 
-`Node.js` `Express.js` `TypeScript` `RESTful APIs` `JWT` `Authentication` `Authorization`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript" />
+</p>
 
-### Databases
+**Core Backend Skills**
 
-`MongoDB` `MySQL` `PostgreSQL`
+`RESTful APIs` · `JWT` · `Authentication` · `Authorization` · `RBAC` · `API Integration`
 
-### Tools & Services
+## Databases
 
-`Git` `GitHub` `GitLab` `Postman` `Axios` `Firebase` `Cloudinary` `Stripe` `Nodemailer` `Socket.IO`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-### Cloud & DevOps
+## Tools & Services
 
-`AWS` `GCP` `Supabase` `CI/CD`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,firebase,aws,gcp,supabase" />
+</p>
 
----
+**Additional Tools**
 
-## What I've Done
-
-* Built and maintained **full-stack web applications** using the MERN stack
-* Developed secure **RESTful APIs** for frontend and third-party integrations
-* Implemented **JWT-based authentication and authorization**
-* Designed and implemented **Role-Based Access Control (RBAC)** systems
-* Designed relational and NoSQL database structures
-* Built responsive and reusable React.js interfaces
-* Integrated payment systems using **Stripe**
-* Implemented real-time functionality using **Socket.IO**
-* Worked with cloud platforms including **AWS, GCP, Firebase, and Supabase**
-* Used Git-based workflows including branching, merge requests, conflict resolution, and code reviews
-* Worked in Agile/Scrum environments with designers, developers, and QA teams
+`Axios` · `Cloudinary` · `Stripe` · `Nodemailer` · `Socket.IO` · `JIRA` · `CI/CD`
 
 ---
 
-## 🏆 Achievements
+# 💡 What I've Done
 
-* **SWE Fellow** — Headstarter AI Fellowship
-* **Hackathon Runner-up** — UEIT Society
-* **Mentor** — Web Development Bootcamp by Dev Weekends
-* **Co-Lead** — GDSC UE Chapter
+* 🏗️ Built and maintained **full-stack web applications** using the MERN stack
+* 🔌 Developed secure **RESTful APIs** for frontend and third-party integrations
+* 🔐 Implemented **JWT-based authentication and authorization**
+* 🛡️ Designed and implemented **Role-Based Access Control (RBAC)** systems
+* 🗄️ Designed relational and NoSQL database structures
+* ⚛️ Built responsive and reusable **React.js interfaces**
+* 💳 Integrated payment systems using **Stripe**
+* ⚡ Implemented real-time functionality using **Socket.IO**
+* ☁️ Worked with **AWS, GCP, Firebase, and Supabase**
+* 🌿 Used Git-based workflows including branching, merge requests, conflict resolution, and code reviews
+* 🔄 Worked in **Agile/Scrum** environments with designers, developers, and QA teams
 
 ---
 
-## 🎓 Education
+# 🏆 Achievements
 
-**Bachelor's in Information Technology**
-University of Education, Township Lahore
+* 🥇 **SWE Fellow** — Headstarter AI Fellowship
+* 🥈 **Hackathon Runner-up** — UEIT Society
+* 👨‍🏫 **Mentor** — Web Development Bootcamp by Dev Weekends
+* 👥 **Co-Lead** — GDSC UE Chapter
 
 ---
 
-## 📫 Connect With Me
+# 🎓 Education
 
-**Email:** `aliatif5513@gmail.com`
+### Bachelor's in Information Technology
 
-**LinkedIn:** [Muhammad Ali](YOUR_LINKEDIN_URL)
+**University of Education, Township Lahore**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:aliatif5513@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <i>Building scalable applications, solving problems, and continuously learning.</i>
+  <b>Let's build something great together 🚀</b>
 </p>
-S, GCP, Firebase & Supabase
-🧪 Experience with Jest & Cypress
-🔧 Strong believer in clean, modular and maintainable code
 
-
-
+<p align="center">
+  <i>MERN Stack Developer · Full Stack Engineer · Problem Solver</i>
+</p>
